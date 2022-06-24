@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elif</h1>
-<h3 align="center">Front-end React Developer</h3>
+<h1 align="left">Hi 👋, I'm Elif</h1>
+<h3 align="left">Front-end React Developer</h3>
 
 - 🌱 I’m currently learning **Next.js, Typescript**
 
